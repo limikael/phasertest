@@ -1,0 +1,11 @@
+{
+  "name": "phasertest",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-browserify": "^3.8.0",
+    "phaser": "^2.3.0"
+  }
+}
